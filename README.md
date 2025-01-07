@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 💫 About Me:
-As a Front-end Engineer with 4+ years of experience in fast-paced environment, I specialize in building responsive and user-friendly web applications using JavaScript, React, Vue, and HTML/CSS. I have used Cypress for end-to-end testing, which has led to a significant decrease in the amount of time needed for quality assurance. I have experience deploying on cloud platforms like Azure and AWS and building and deploying microservices using Node.js and Docker. I excel in Agile methodologies and CI/CD using Git and Github Actions for version control. I have delivered 5 projects on tight deadlines, with team sizes ranging from 5-8 members. I am always looking for opportunities to learn and grow as a Front-end Engineer and to bring my skills and experience to organizations and contribute to their success.
+As a Front-end Engineer with 4+ years of experience in fast-paced environment, I specialize in building responsive and user-friendly web applications using JavaScript, React, NextJS, and HTML/CSS. I have used Cypress for end-to-end testing, which has led to a significant decrease in the amount of time needed for quality assurance. I have experience deploying on cloud platforms like Azure and AWS and building and deploying microservices using Node.js and Docker. Also, I am good at using Agile methods and CI/CD using Git and Github Actions for version control. I have successfully completed projects within strict deadlines, with team sizes ranging from 5-8 individuals. I am constantly looking for opportunities to learn and grow as a front-end engineer, and to bring my skills and experience to organizations and contribute to their success.
 
 
 ## 💻 Tech Stack:
